@@ -12,6 +12,18 @@ A terminal-based chat application featuring Trinity from The Matrix with stunnin
 - 💾 Save conversation to file
 - ⚙️ Model switching and system information
 
+## Features in Action
+
+### Matrix Animation
+![Matrix Animation](assets/demo.gif)
+
+### Trinity Chat
+![Trinity Chat](assets/screenshot.png)
+
+### Color Customization
+![Color Options](assets/demo2.gif)
+
+
 ## Requirements
 
 - Python 3.6+
