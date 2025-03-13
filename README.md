@@ -2,9 +2,6 @@
 
 A terminal-based chat application featuring Trinity from The Matrix with stunning digital rain animation effects. Chat with Trinity while watching AI responses materialize through Matrix-style visual effects.
 
-![KP-Matrix-Chat Demo](demo_screenshot.png)
-*(Add a screenshot or GIF of your application here)*
-
 ## Features
 
 - 🔄 Matrix-style digital rain animation for displaying AI responses
