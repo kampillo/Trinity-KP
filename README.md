@@ -14,11 +14,11 @@ A terminal-based chat application featuring Trinity from The Matrix with stunnin
 
 ## Features in Action
 
+### Trinity Chat
+![Trinity Chat](assets/screenshot.jpg)
+
 ### Matrix Animation
 ![Matrix Animation](assets/demo.GIF)
-
-### Trinity Chat
-![Trinity Chat](assets/screenshot.JPG)
 
 ### Color Customization
 ![Color Options](assets/demo2.GIF)
