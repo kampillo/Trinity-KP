@@ -15,13 +15,13 @@ A terminal-based chat application featuring Trinity from The Matrix with stunnin
 ## Features in Action
 
 ### Matrix Animation
-![Matrix Animation](assets/demo.gif)
+![Matrix Animation](assets/demo.GIF)
 
 ### Trinity Chat
-![Trinity Chat](assets/screenshot.png)
+![Trinity Chat](assets/screenshot.JPG)
 
 ### Color Customization
-![Color Options](assets/demo2.gif)
+![Color Options](assets/demo2.GIF)
 
 
 ## Requirements
@@ -34,7 +34,7 @@ A terminal-based chat application featuring Trinity from The Matrix with stunnin
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/trinity-kp.git
+   git clone https://github.com/kampillo/trinity-kp.git
    cd trinity-kp
    ```
 
